@@ -6,4 +6,4 @@
  * Time: 13:52
  */
 
-echo "index";
+echo "index teste";
